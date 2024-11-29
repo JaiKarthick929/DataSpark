@@ -24,6 +24,7 @@ Store Performance,
 Geographical Analysis.
 
 Skills Utilized:
+
 Data Cleaning and Preprocessing
 
 Exploratory Data Analysis (EDA)
@@ -33,4 +34,5 @@ Data Management using SQL
 Visualization with Power BI
 
 Results:
+
 The project culminated in a comprehensive EDA report featuring clean and integrated datasets, in-depth insights, visually compelling visualizations, and actionable recommendations. These insights aim to enhance marketing strategies, optimise inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions for Global Electronics.
